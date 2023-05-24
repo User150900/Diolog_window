@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diolog_window</string>
+    <string-array name="finance">
+        <string>Income</string>
+        <string>Extence</string>
+    </string-array>
+</resources>
